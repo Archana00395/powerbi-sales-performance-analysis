@@ -1,0 +1,9 @@
+- The analysis covers 180 sales records.
+- Total Sales were 942,606.
+- Total Profit was 298,496, with an overall Profit Margin of 31.67%.
+- Home was the highest-performing category by Sales at 315,888 (33.51% of total Sales).
+- Fashion was the lowest-performing category by Sales at 167,628.
+- The leading category, Home, exceeded Electronics by 25,363 in Sales.
+- North was the highest-performing region by Sales at 297,912.
+- West was the lowest-performing region by Sales at 208,148.
+- Sales in North exceeded Sales in West by 89,764.
